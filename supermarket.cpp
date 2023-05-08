@@ -5,6 +5,7 @@
 
 using namespace std;
 
+//here we have created a shooping and billing program that can be used by th administrator with specific login and also a coustomer to purchace the product
 class shopping {
 
 
